@@ -33,6 +33,6 @@ body.dark.mode {
 .dark-mode-btn {
     display: flex;
     background-color: rgb(44, 62, 80);
-    color: #fff
+    color: #fff;
     border-radius: 150px
 }

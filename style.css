@@ -14,11 +14,11 @@ h1, h2, h5 {
 }
 
 footer a {
-    color: var(--cor-principal)
+    color: var(--cor-principal);
 }
 
 footer a:hover {
-    color: var(--cor-destaque)
+    color: var(--cor-destaque);
 }
 
 body.dark.mode {
@@ -34,11 +34,11 @@ body.dark.mode {
     display: flex;
     background-color: rgb(44, 62, 80);
     color: #fff;
-    border-radius: 150px
+    border-radius: 150px;
 }
 
 .dark-mode-btn:hover {
     background-color: #fff;
     color: rgb(44, 62, 80);
-    border-radius: 150px
+    border-radius: 150px;
 }

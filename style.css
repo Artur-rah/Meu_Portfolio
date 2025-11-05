@@ -1,6 +1,6 @@
 :root {
-    --cor-principal: #2478d7;
-    --cor-secundaria: #4fa1ff;
+    --cor-principal: #6e859f;
+    --cor-secundaria: #284260;
     --cor-destaque: #c92bfc;
 }
 
@@ -21,18 +21,18 @@ footer a:hover {
     color: var(--cor-destaque);
 }
 
-body.dark.mode {
+body.dark-mode {
     background-color: rgba(18, 18, 18, 0.853);
     color: #fff;
 }
 
-.dark-mode{
+.dark-mode {
     margin-top: 20px;
 }
 
 .dark-mode-btn {
     display: flex;
-    background-color: rgb(44, 62, 80);
+    background-color: rgb(44, 62,80);
     color: #fff;
     border-radius: 150px;
 }
